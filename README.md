@@ -22,7 +22,8 @@ The routine goes like:
 
 ```git
 git fetch upstream	
-git pull upstream master```
+git pull upstream master
+```
 
 3. Move into the current assignment directory (todo1, todo2, etc.)
 
