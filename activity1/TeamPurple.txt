@@ -1,0 +1,18 @@
+Katherine
+Emily
+Sarah
+
+Annotated Learner Texts
+	a. Type of data set/Content: Collection of student essays. 
+	   Format: XML
+	   Purpose: To compare the writings of L2 learners and heritage learners, under both timed conditions and untimed conditions
+	b. The data consists of student essays and was collected from students enrolled in Portland State University's Russian Language Flagship program. The essays were annotated by the author.
+	c. The data is organized by speaker status (L2 learner vs. heritage learner) and condition (timed vs. untimed)
+	d. Determine the number of participants, average number of words per essay, average sentence length, etc.
+	e. Compare the essays to a Russian corpus, explore quality of writings/fluency of students
+
+Istanbul_Greek_Hadodo
+	a. Type of data set/Content: Collection of interviews
+	   Format: sound files(.wav) which are saved as sound files
+	b. 
+	c. The sound files are organized by gender
