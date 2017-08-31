@@ -1,0 +1,3 @@
+The data for the Annotated Learner Texts contains .xml files of essays in Russian. It contains 323 student essays from 2008 to 2013 and is organized by  timed, untimed, heritage, and l2 speakers. Errors are tagged in the xml file. With the data currently, if you spoke Russian, you could read the essays and look at the errors. With data-science methods we may be able to find what sorts of errors occur based on the speakers fluency and whether the task is timed.
+
+Instanbul_Greek looks at the difference in production between l and dark l in Instanbul Greek and Turkish. It documents the data because Istanbul Greek is an endangered language.
