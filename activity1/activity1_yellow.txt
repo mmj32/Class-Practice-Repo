@@ -1,0 +1,32 @@
+a. What kind of data set is this? Content? Format? Purpose?
+  This data is a set of XML files, organized into t-units. This data is collected for comparative study of L2 learners.
+
+b. How was the data created, collected, and processed?
+  The data was created by students, whose essays were collected. The essays included include both timed and untimed essays. The sentences were subdivided into t-units and put into XML files.
+
+c. How did the researcher organize the data?
+  Organized by Timed/Untimed, and then by each student's submission
+
+d. At present, what can you do with this data?
+  Use it for comparative analysis of error rates.
+
+e. After learning data-science methods, what do you think you will be able to do with the data?
+  Generate summary statistics of data, compared to other similar data sets.
+
+
+
+
+
+a. What kind of data set is this? Content? Format? Purpose?
+  .WAV, and text grid files
+
+b. How was the data created, collected, and processed?
+
+
+c. How did the researcher organize the data?
+
+
+d. At present, what can you do with this data?
+
+
+e. After learning data-science methods, what do you think you will be able to do with the data?
