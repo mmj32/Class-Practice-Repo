@@ -1,0 +1,17 @@
+Paige Haring, Alan Juffs, Margaret Jones
+
+real_linguistics_data.zip
+
+a. This is spoken data. They are all sound files divided by gender, so it appears their purpose is to look at gender differences. They're are several .wav files
+b.
+c. The data is organized by gender.
+d.
+e.
+
+Annotated Learner Texts
+
+a. Written data, not spoken, from two groups of second language learners and heritage learners of Russian to compare. Interested in gender, number, and case agreement in noun phrases.
+b. Created and collected from 232 student essays RULEC between 2008 and 2013.
+c. Organized by essays with a time limit and essays without a time limit.
+d. We can  "read" the essays in the XML format (if you speak Russian). You can do an analysis of common errors that L2 Russian speakers make and compare to those of L1.
+e. Process the files to look for frequencies of errors or words, convert to a different format.
