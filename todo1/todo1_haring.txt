@@ -1,0 +1,57 @@
+Paige Haring
+To-do #1
+8.30.17
+LING 1340
+
+
+Data Set #1
+
+Name: NUS Social Media Text Normalization and Translation Corpus
+
+Authors: Pidong Wang and Hwee Tou Ng, NLP Group at National University of Singapore
+
+URL: http://www.comp.nus.edu.sg/~nlp/corpora.html
+
+Makeup: This corpus consists of 2,000 randomly selected text messages from the National University of Singapore's
+NUS English SMS corpus (the links to this corpus were broken). The corpus consists of a text in English, followed by
+the same text manually translated into "formal English" or a more normalized form of English, followed by the same text's 
+translation in Chinese. It's supposed to be used for study's/training/etc for the normalization and translation of social 
+media text language. This corpus came with a README and the corpus file called en2cn-2k.en2nen2cn.
+
+License: No license is posted on the download site, but in the README file it says:
+"This corpus is made available for research porpuse only. If you use
+this corpus in your research, please cite the following paper:
+
+Pidong Wang and Hwee Tou Ng. 2013. A Beam-Search Decoder for
+Normalization of Social Media Text with Application to Machine
+Translation. In Proceedings of the North American Chapter of the
+Association for Computational Linguistics (NAACL)."
+
+Noteworthy: This corpus is very small, and there isn't really any information in the README or on the download site
+about how the creators did the manual translation to a more "normalized" English, and then to Chinese, so the accuracy of 
+this corpus is up for debate. Also, I wasn't sure how to even open up the corpus file en2cn-2k.en2nen2cn. What I ended up
+doing was just throwing .txt onto the end, and it magically opened as a text file with the data. Here is a sample:
+
+U wan me to "chop" seat 4 u nt?
+Do you want me to reserve seat for you or not?
+你要我帮你预留坐位吗？
+
+
+Data Set #2
+
+Name: Arguing Lexicon
+
+Authors: Swapna Somasundaran, Josef Ruppenhofer and Janyce Wiebe, University of Pittsburgh CS
+
+URL: http://mpqa.cs.pitt.edu/lexicons/arg_lexicon/
+
+Makeup: The lexicon consists of 22 .tff files and a README pdf. 17 of the .tff files represent patterns of a type of arguing mentioned in their
+paper- Swapna Somasundaran, Josef Ruppenhofer and Janyce Wiebe (2007) Detecting Arguing and Sentiment in Meetings, SIGdial Workshop on Discourse and Dialogue, Antwerp, Belgium, September 2007 (SIGdial Workshop 2007).
+For example, doubt.tff, authority.tff, and emphasis.tff. The other 5 are called "macros"- which seem to be expansions from
+one word to a set of words that are put in their own file.
+
+License: GNU General Public License
+
+Noteworthy: I don't know what a .tff file extension means. I opened a file using Sublime, and each line was an entry of a certain
+pattern. The patterns are expressed with regular expressions according to the README, so an example of a pattern from the 
+possibility.tff file is: any way (that|for|of|to)?
