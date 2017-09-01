@@ -1,0 +1,12 @@
+PHOIBLE is a collection of phonological data from 2155 languages around the world. In a given language it lists the segments found in the language, and how frequent that segment is found in the other 2155 listed languages. It also provides a map showing the distribution of the segment in languages across the world.
+The authors are Steven Moran, Daniel McCloy, and Richard Wright of the Max Planck Institute for Evolutionary Anthropology in Leipzig.
+A page for downloading the data can be found at http://phoible.org/download
+The download size is 21.8MB and the data is stored in .tsv and .R files.
+It is licenced as under Creative Commons Attribution-ShareAlike 3.0 Unported.
+Each inventory cites sources for the existance of the segments in that language.
+
+The Open American National Corpus contains data of spoken and written American English from 1990 to present day and cointains 15 million words which have been annotated.
+The project manager is Nancy Ide of Vassar College and the technical director is Keith Suderman of Vassar College.
+A full download can be found at http://www.anc.org/data/oanc/download/ and is almost 7GB. It contains .txt, .anc, and .xml files.
+It is licenced under the Open Definition licence.
+While the data is supposed to be about American English in general, a large amount of the spoken data comes from a small section of North Carolina.
