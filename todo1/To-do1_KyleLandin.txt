@@ -1,0 +1,15 @@
+Corpus Linguistics:
+The name of the resource is the American National Corpus.
+The download page is http://www.anc.org/data/oanc/download/
+The download was a 639 MB .zip file that translated to an uncompressed 7 GB file.
+The resource is open source.
+From what I can see, the files are predominately .xml files and .txt files. The .txt files contain transcripts
+of conversations and other written material. All of the data appears to be in English.
+
+Other:
+The name of the resource is PARADISEC and can be found at http://www.paradisec.org.au/collections/.
+The site has collections of recordings of various different languages with the capability to search by language or
+country.
+This site appears to have open source data with the recordings being available.
+Depending on what type of file, the size varies. Each recording appears to be available in both .mp3 format and .wav
+format. The .mp3 format is much smaller in size than the .wav.
