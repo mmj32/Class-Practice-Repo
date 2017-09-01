@@ -1,0 +1,49 @@
+Data Set #1 (Corpus)
+
+Name: Complete Public Reddit Comments Corpus (1 month sample)
+
+The author: Data gathered from Reddit by Jason Baumgartner. Complete Public Reddit Comments Corpus, September 2015. https://archive.org/details/2015_reddit_comments_corpus.
+
+Corpus URL: https://archive.org/details/2015_reddit_comments_corpus
+Download URL: https://mega.nz/#!ysBWXRqK!yPXLr25PgJi184pbJU3GtnqUY4wG7YvuPpxJjEmnb9A
+
+Makeup:
+- size:53,851,542 comments (entire corpus over 250GB of approximately 1.7 billion comments)
+- time period: May 2015 (entire corpus late 2007 through January 2017 and continually being updated)
+- type of language: informal written language, online user comments
+- authors: primarily 35 years old or younger, 80 percent male
+- format:JSON objects with comment, score, author and other fields
+
+License: open-source site (https://www.reddit.com/wiki/licensing)
+
+Other information:
+- Data used for the Reddit ‘How the Internet Talks’ Ngram Viwer (https://projects.fivethirtyeight.com/reddit-ngram/)
+- Reference consulted: Olson, R.S. 2015. The Reddit Ngram Viewer. Last accessed Aug 31 from http://www.randalolson.com/wp-content/uploads/The_Reddit_Ngram_Viewer.pdf
+- 0.36% of all texts (from full corpus) mention cats!
+
+
+
+
+Data Set #2 (Excel spreadsheets, CSV file, online search tool)
+
+Name: SUBTLEX-UK: Subtitle-based word frequencies for British English
+
+Description:frequency data relating to lexis in subtitles from BBC broadcasts (adult and children programming)
+
+The authors: Van Heuven, W.J.B., Mandera, P., Keuleers, E., & Brysbaert, M.
+
+Website URL: http://crr.ugent.be/archives/1423
+Download URL: http://crr.ugent.be/papers/SUBTLEX-UK.xlsx
+
+Makeup:
+- size:based on corpus of 201.3 million words. Frequency data sets have 160,022 clean entries and 332,987 uncleaned entries
+- time period: Jan 2010 - Dec 2012
+- format:excel files (cleaned and uncleaned) with word frequencies for types and CSV file for bigram data
+
+License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License. (http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US)
+
+Other information:
+- similar data set exists for American version
+- claims to be more reliable than written text corpora for psycholinguistic research
+- available tool for online searches
+
