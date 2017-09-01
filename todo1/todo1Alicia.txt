@@ -1,3 +1,6 @@
+To Do #1
+Alicia Sigmon
+
 1. Names Corpus, Version 1.3
 2. Authors: Mark Kantrowitz and Bill Ross
 3. https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/names.zip
