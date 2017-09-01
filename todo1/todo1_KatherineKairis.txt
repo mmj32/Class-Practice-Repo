@@ -1,0 +1,26 @@
+Katherine Kairis
+To-do 1
+
+Name of the data resource: VOICE: Vienna-Oxford International Corpus of English
+Authors(s): Barbara Seidlhofer, Angelika Breiteneder, Theresa Klimpfinger, Stefan Majewski, Ruth Osimk-Teasdale, Michael Radeka
+URL of the download page: http://ota.ox.ac.uk/desc/2542
+Makeup
+	Size: 1695 files, 353.9 MB
+	Language: Mostly English, but occasionally other languages
+	Format: A corpus with files containing conversation transcripts. There are three different versions for each conversation: XML, text, and HTML.
+License: Licensed under a Creative Commons Attribution-Noncommercial-ShareAlike (CC BY-NC-SA 3.0).  The license is very lenient for noncommercial use.
+This corpus contains spoken conversations between speakers from varying language backgrounds who use English as a common language. Each file lists information about each participant in the conversation(age, gender, native language, occupation). The XML versions of the files contain nonverbal features, like pauses, intonation, emphasis, and laughter. The files also notes instances where speakers use their native languages instead of English.
+
+
+
+
+
+Name: Adjectival gender agreement in monolingual and bilingual Latvian- and Russian-speaking pre-schoolers
+Authors: Olga Urek, Agrita Taurina, Marit Westergaard
+Download page URL: https://dataverse.no/dataset.xhtml?persistentId=doi:10.18710/8ECVSD
+Makeup
+	Size: 814.6 KB
+	Language: The data is in English, but the data concerns Latvian and Russian
+	Format: Text file, with each line in the text file containing information about a participant in the study
+License: The dataset is on TROLLing, which is an open access archive
+This dataset is a large table that contains data from a study investigating adjectival agreement for young children. The participants were monolingual Russian speakers, monolingual Latvian speakers, and bilingual. Contains information about each child (age, language, etc.), experimental conditions and stimuli, and whether the child's response was correct.
