@@ -1,0 +1,21 @@
+name of the data resource/authro: Yelp dataset challenge
+access: open to the public, and downloadable in JSON and SQL format, and photos here: https://www.yelp.com/dataset/download
+
+makeup
+size: 2.28 gb compressed, 5.79 gb uncompressed (TAR format)
+language: english (but you can access yelp reviews of 12 cities across 4 countries)
+format: JSON
+license: there are 6 pages of the dataset terms and use that I don't want to read right now but is here: https://s3-media2.fl.yelpcdn.com/assets/srv0/engineering_pages/af4b9cebfb4f/assets/vendor/dataset-challenge-dataset-agreement.pdf
+
+github site also exits for examples: https://github.com/Yelp/dataset-examples
+
+the data is split into several categories to allow for user to access the tags that they want to.
+these are:
+business (which include business data such as city, state, stars, review counts, attributes)
+review (which includes the review of individuals, also includes user ids)
+user (which includes user data, such as type of reviewer, elite status, average ratings)
+check in (the check ins at the business to show on average how many people check in on the hour)
+tip (gives tips and such to other readers).
+
+it's basically a ton of data of yelp reviews to rage over. you can do quite a few things with this data, and it can be applied to businesses in what types of reviews they are getting without just looking at the stars.
+it has the potential to really get into creating some detailed algorithm to predict what kind of reviewers restaurants are getting, what kind of reviews people tend to make, whether a 4.5 star restaurant is truly reliable, and the hottest spots in whatever city.
