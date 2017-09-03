@@ -1,0 +1,24 @@
+This is the 'To Do' from Alan Juffs
+
+I apologize for the delay.
+
+I looked at two corpora that would be useful to me in the ELI database.
+
+1. http://talkbank.org/browser/index.php?url=SLABank/English/Vercellotti/
+http://talkbank.org/access/SLABank/
+All of these are in CLAN .cha format have sound files associated with them. They are also sound files, but you need CLAN to read them.
+One could do a replication study of Vercellotti's paper here or alternatively look at other issues in these spoken data.
+
+The data are not 'under license' but freely available.
+
+2. For the second one, I looked at the one that you suggested.
+http://www.nltk.org/nltk_data/
+
+And then I went to C-Span Inaugural Address Corpus [ download | source ]
+id: inaugural; size: 321354; author: ; copyright: public domain; license: public domain;
+
+These are .txt files of all the inaugural addresses of US Presidents.
+
+They are plain text and seem to be available for all kinds of linguistic analysis based on lexicon and syntax, but not phonology.
+
+Oh and I made some changes to this file.
