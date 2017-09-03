@@ -1,0 +1,23 @@
+Margaret Jones ToDo #1
+
+Source 1
+	Name: The World's Writing Systems: Korean Writing
+	Author(s): Ross King, Peter T. Daniels, and William Bright
+	URL to download: https://archive.org/stream/rosettaproject_kor_ortho-1/rosettaproject_kor_ortho-1_djvu.txt
+	Makeup
+		Size: 489 KG
+		Language: English
+		Format: Essay
+	License: No
+	Other Notes: The charts don't carry over when in the text version so sometimes it looks a little odd, but it is an easy work-around
+
+Source 2
+	Name: Discourse Features of Korean Narration
+	Author: Shin Ja-Joo Hwang
+	URL to download: https://archive.org/stream/rosettaproject_kor_vertxt-1/rosettaproject_kor_vertxt-1_djvu.txt
+	Makeup
+		Size: 237 KB
+		Language: English
+		Format: Essay
+	License: No
+	Other Notes: Several odd characters that don't have romanized equivalents 
