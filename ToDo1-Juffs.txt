@@ -20,3 +20,5 @@ id: inaugural; size: 321354; author: ; copyright: public domain; license: public
 These are .txt files of all the inaugural addresses of US Presidents.
 
 They are plain text and seem to be available for all kinds of linguistic analysis based on lexicon and syntax, but not phonology.
+
+Oh and I made some changes to this file.
