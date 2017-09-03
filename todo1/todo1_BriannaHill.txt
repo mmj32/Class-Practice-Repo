@@ -1,0 +1,58 @@
+Brianna Hill
+August 31, 2017
+To-Do #1
+
+## DATASET 1:
+Crúbadán language data for Tamazight
+
+Developer/Researcher/Creator: Kevin Scannell
+
+OLAC Record page: http://www.language-archives.org/item/oai:crubadan.org:tzm
+	File download: http://crubadan.org/languages/tzm
+	
+Size: 1192 documents, approximately 2.3 million words
+
+Afro-Asiatic language (specifically Morocco)
+
+License: Creative Commons Attribution 4.0 International License
+
+Interesting Info:
+	The download consisted of 4 files: character trigrams, word bigrams, and words (all
+		with frequency of occurence). The 4th file is titled "tzm-urls.txt", which I
+		assume is just the sources for all of the data.
+	I'm very surprised at the amount of data available! I did my final paper on Amazigh
+		for Ling 1800 (Endangered and Dying Languages) last fall and it seemed as though
+		the language was still struggling to make a come back within the educational
+		system. This data was published in August 2015, so it does seem to be making some
+		progress! It makes me feel hopeful that revitalization efforts might be working!
+	Spelling varies between Amazigh and Tamazight (and can be considered similar to Barber,
+		but that was my Ling 1800 final). I'm more familiar and used to the first spelling.
+		
+
+## DATASET 2:
+PANACEA Environment Corpus n-grams ES (Spanish)
+
+Contact person given on source site: March Poch
+
+Linghub page: http://linghub.lider-project.eu/metashare/f9be99cabbb611e28763000c291ecfc8c5698cb825a64a5f91cc4a4866705914#contactPerson
+	Download page: http://metashare.upf.edu/repository/browse/panacea-environment-corpus-n-grams-es-spanish/f9be99cabbb611e28763000c291ecfc8c5698cb825a64a5f91cc4a4866705914/
+
+Iberian Romance language
+
+Size: This corpus is gigantic (in terms of what I've worked with), over 1gb of data. It goes
+	from unigram data to 5-gram data and contains data for sentences and tokens amongst
+	other things. I probably won't keep all of the data on my computer to use (especially
+	considering how long it's taking to download). Everything is accompanied by frequency
+	counts.
+	
+License: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+Interesting Info:
+	All data was gathered in what is described as the "Environment" domain during PANACEA
+		in 2011 (I guess at a conference since it was described as being collected in the
+		context of PANACEA). PANACEA stands for Platform for Automatic, Normalized Annotation
+		and Cost-Effective Acquisition of Language Resources for Human Language Technologies.
+	It'll be interesting to actually dig into the files once they download since I'm a
+		Spanish student and can probably interpet the data on a meaningful level and not
+		just on a surface level. (Meaning more than just "these characters do this", but
+		also "this meaning/phrase does this".)
