@@ -1,0 +1,18 @@
+ToDo #1 Sarah Kerman
+
+Corpus: Twitter Samples
+No listed author, copyright Twitter, Inc.
+http://www.nltk.org/nltk_data/
+94.5 MB of twitter posts, JSON format, tagged for positive/negative mood
+Does not contain a license document, but README file states that use is subject to Twitter Developer Agreement
+Dataset contains full corpus as well as two smaller files containing sub-corpora of only positive or negative tweets
+Coding for positive or negative included checking against certain emoticons
+
+Santa Barbara Corpus of Spoken American English
+Authors: Du Bois, John W., Wallace L. Chafe, Charles Meyer, Sandra A. Thompson, Robert Englebretson, and Nii Martey
+http://www.linguistics.ucsb.edu/research/santa-barbara-corpus
+The corpus consists of audio files in .WAV and .MP3 formats, and corresponding transcripts in .trn and .cha (IRC Chat) formats
+The SBCSAE is licensed under a Creative Commons Attribution-No Derivative Works 3.0 United States License.
+The audio files contain recordings of many different types of natural conversation.
+The transcriptions contain timestamps to match the audio files.
+
