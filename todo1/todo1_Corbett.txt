@@ -1,0 +1,37 @@
+Robert Corbett
+To-Do 1
+LING 1340
+8/31/2017
+
+	I started looking through the resources provided by the Linguistics Data Repositories link.  Not sure were to begin, 
+I clicked the first archive in the repository, AILLA: Archive of the Indigenous Languages of Latin America.  After registering, 
+I began browsing the archive by languages.  This archive contained over 300 languages, so to get a feel for the type of data in 
+this archive, I examined the first ten.  Some of the languages, like Amahuaca, did not have any matches in the archive, and some 
+only had a few matches.  Of the first ten languages, Akateko had the most matches (49 matches), so I continued 
+examining it.  Each entry was given a genre identifier after the title, most common were “Wordlist” and “Narrative”.  Many of the 
+matches classified as “Wordlist” contained “Swadesh List” in the title.  One that I looked at was titled “Swadesh List and OKMA 
+Special List” and it contained several .mp3 and .wav files.
+
+“Swadesh List and OKMA Special List”
+The Archive of Indigenous Languages of Latin America 
+Oxlajuuj Keej Maya’ Ajtz’iib’ (OKMA) Collector and Depositor
+Manuel Francisco Diego speaker
+http://www.ailla.utexas.org/search/resource.html?r_id=4181
+Thirteen .mp3 and .wav files of a speaker of Akateko
+Data in the AILLA archive is free to use for non-profit purposes as long as the intellectual property rights and copyrights are respected
+
+Francisco Diego, Manuel (Speaker). (1998). “Swadesh list and OKMA special list”. Oxiajuuj Keej Maya’ Ajtz’iib’ Mayan Languages Collection. 
+The Archive of the Indigenous Languages of Latin America: www.ailla.utexas.org. Media: audio. Access: public. Resource: KNJ003R001.
+
+
+
+       I also looked through the NLTK Corpora Index.  I downloaded the “Genesis Corpus” because it contained a subject I was familiar 
+with.  The .zip file contained .txt files of the book of Genesis translated into English (King James Version), English (World English 
+Bible), Finnish, French, German, lolcat, Portuguese, and Swedish.  It also contained a README file explain the contents.  The .txt 
+files had been prepared and stripped of formatting, markup and verse numbers. 
+
+“Genesis Corpus”
+NLTK Corpora
+www.nltk.org/nltk_data/
+462KB
+License: Public Domain	
