@@ -1,0 +1,28 @@
+Pierce's Annotated Learner Texts contain texts written by Russian language
+learners. Texts are divided into those written by heritage learners and by L2
+(second language learners), which are then subdivided into timed and untimed
+texts. In my opinion, this is good organization of the files. According to the
+source URL (which proved to be more useful than the README file), the data was
+collected from Russian language learners in Portland State University's Russian
+Language Flagship program. This makes it unsurprising that the data is presented
+in Cyrillic. In addition, the data is presented in XML format and has been
+marked by a native Russian speaker for "all inflectional morphology errors on
+nouns, adjectives and determiners...[and] all T-units (sentences or independent
+clauses with any accompanying dependent clauses) in the texts have been
+annotated." With this information I gather that the data is to be used to study
+the use of the skill of Russian language in writing between heritage speakers
+and L2 by using morphological errors and T-units as measures of comparison.
+Right now, I could go through this data and compare the amount of T-units used
+by both groups in both situations (timed vs untimed) and compare the number of
+errors made in the same way. After learning data-science methods, I'm not quite
+sure what else I'll be able to do with this data, but that's the fun in learning!
+
+The Istanbul Greek Hadodo data at first glance is very organized, it honestly
+seems like the majority (if not all) of the project is included. There are
+the original interviews as sound files as well as what I believe are transcripts
+of the interviews (the TextGrids). Looking at the Stats folder, to me it seems
+like this research was focused on the sounds of the Greek language and their
+production. I don't know much about phonology, so this data doesn't mean a lot
+to me and I'm not confident that I could do much of anything with it right now.
+Again, I'm not sure what I will be able to do with it in the future, but that's
+to be discovered!
