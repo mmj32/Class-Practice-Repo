@@ -3,14 +3,14 @@
 Publicly shared class repo. For practicing, class activities, etc.
 
 ## Initial steps
-Fork this repository into your GitHub account. Then, clone your fork to your local machine. 
+Fork this repository into your GitHub account. Then, clone your fork to your local machine: 
 
-    git clone git@github.com:YOUR-USERNAME/YOUR-FORKED-REPO.git
+    git clone https://github.com/YOURNAME/Class-Practice-Repo.git
 
-Add remote from original repository ('upstream') into your forked local repository. 
+Add the original repository as the "upstream" remote repository. 
 
-    cd into/cloned/fork-repo
-    git remote add upstream git://github.com/ORIGINAL-DEV-USERNAME/REPO-YOU-FORKED-FROM.git
+    cd <your-cloned-repo>
+    git remote add upstream https://github.com/naraehan/Class-Practice-Repo.git
 
 ## Submitting to-do tasks
 
@@ -21,8 +21,7 @@ The routine goes like:
 2. Start by syncing with the original upstream: 
 
 ```git
-git fetch upstream	
-git pull upstream master
+	git pull upstream master
 ```
 
 3. Move into the current assignment directory (todo1, todo2, etc.)
@@ -31,7 +30,7 @@ git pull upstream master
 
 5. Don't forget to commit and save your progress while working on your file. Also, check status via `git status`. 
 
-6. Occasionally push it to your GitHub remote fork. 
+6. Occasionally push it to your GitHub remote fork ("origin"). 
 
 7. When you think you have a final version, push it one last time to your GitHub remote fork. Check the file on GitHub to make sure everything looks fine. 
 
