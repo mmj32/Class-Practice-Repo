@@ -1,6 +1,6 @@
 ### Project Ideas:
 
-####1. Scraping bookmarks from Chrome, automatically group bookmarks into folders and subfolders with topic modeling. In a more general sense, this will group a list of URLs into topics and subtopics.
+#### 1. Scraping bookmarks from Chrome, automatically group bookmarks into folders and subfolders with topic modeling. In a more general sense, this will group a list of URLs into topics and subtopics.
 
 *Data*:
 - A list of URLs to articles
@@ -16,7 +16,7 @@
 - Could turn into a python module or even a package
 - Test on my own bookmarks, or some giant list of URLs and see how it turns out.
 
-####2. Tackle something like Cornell's NLVR [challenge](http://lic.nlp.cornell.edu/nlvr/) and try to describe images with text
+#### 2. Tackle something like Cornell's NLVR [challenge](http://lic.nlp.cornell.edu/nlvr/) and try to describe images with text
 *Data*
 - On GitHub [here](https://github.com/clic-lab/nlvr)
 - Nicely formatted into test and train sets
