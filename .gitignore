@@ -3,3 +3,7 @@
 
 # ignore jupyter notebook checkpoint directories anywhere
 **/.ipynb_checkpoints
+
+# ignore api keys
+todo8/api_key.txt
+
